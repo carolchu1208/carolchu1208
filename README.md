@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolchu1208
-- 👀 I’m especially interested in Psycholiguistics field
-- 🌱 I’m currently learning programming in UW Madison graduate school, Data Science in Human Behavior program, and used to be the in PR and marketing profession.
+- 👀 I’m especially interested in Data Science cross Information Spreading/ HealthCare field
+- 🌱 I’m currently studying in Clark University Business Analytics Program, used to be PR & MKT professionals
 - 💞️ I’m looking to collaborate on any kinds of language ad user experience project
 - 📫 Please reach me through manlin.chu1998@gmail.com
 
