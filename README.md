@@ -6,7 +6,8 @@ Thus, now I'm studying in Clark University Business Analytics Program to sharpen
 🎞️ My Story
 -------------------------
 I had practical experience in Fortune 500 brand and PR agency held Brand Innovation Online/Offline Event Strategy Managment, including external partnerships, A/B testing and Customer Insight Analytics.
-Academically, I had experienc utilizing Python, R, Tableau to dig in Twitter Covid 19 Dissemination Network Research, and help refine algorithm for health-related information spreading on social media.
+Academically, I had experienc utilizing Python, R, Tableau to dig in Twitter Covid 19 Dissemination Network Research, helped refine algorithm for health-related information spreading on social media.
+Some more health related projects such as prostate cancer machine learning prediction are in my repo too! My core is to use power of technology design better life stick to consumer habits.
 
 📫 Get Connect With Me
 ------------------------
