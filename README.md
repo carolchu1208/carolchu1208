@@ -11,7 +11,7 @@ Academically, I had experienc utilizing Python, R, Tableau to dig in Twitter Cov
 📫 Get Connect With Me
 ------------------------
 If you are developer, talen recruiter seeking for an excellent data analytics know consumer market deeply. 
-👍 Go ahead and reach me through mchu@clarku.edu or manlin.chu1998@gmail.com. Let's make your network is your net worth. 👍
+👍 Go ahead and reach me through mchu@clarku.edu or manlin.chu1998@gmail.com. Let's make your network is your net worth.
 
 <!---
 carolchu1208/carolchu1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
