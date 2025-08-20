@@ -8,7 +8,7 @@ M.S. in Business Analytics | Former PR & Marketing Professional | Data Analytics
 
 **Academic Research:** Applied Python, R, and Tableau to analyze Twitter’s COVID-19 dissemination network, refining algorithms for health-related information sharing. Additional projects include machine learning–based prostate cancer prediction, available in my repositories.  
 
-**Current Research:** Conducting research on **multi-LLM generative agent simulations in AI Town**, modeling consumer decisions and social interactions under marketing strategies such as price discounts. This work connects **AI, behavioral simulation, and business analytics** to evaluate strategy effectiveness in controlled experiments.  
+**Current Research:** Conducting research on **multi-LLM generative agent simulations in AI Town**, modeling consumer decisions and social interactions under price discounts marketing strategies. This work connects **AI, behavioral simulation, and business analytics** to evaluate strategy effectiveness in controlled experiments.  
 
 📫 Get in Touch  
 -------------------------  
