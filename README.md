@@ -1,18 +1,20 @@
-👋 Hi, Welcome to @carolchu1208 's Git!
--------------------------
-I'm a Data Analyst who's ex PR & MKT professionals interested in understanding Customer Decision.
-Thus, now I'm studying in Clark University Business Analytics Program to sharpen my analytics skills, and soon will gradute in Dec, 2024.
+👋 Hi, Welcome to @carolchu1208's Git!  
+-------------------------  
+M.S. in Business Analytics | Former PR & Marketing Professional | Data Analytics & Gen-AI Research for Better Customer Experience  
 
-🎞️ My Story
--------------------------
-I had practical experience in Fortune 500 brand and PR agency held Brand Innovation Online/Offline Event Strategy Managment, including external partnerships, A/B testing and Customer Insight Analytics.
-Academically, I had experienc utilizing Python, R, Tableau to dig in Twitter Covid 19 Dissemination Network Research, helped refine algorithm for health-related information spreading on social media.
-Some more health related projects such as prostate cancer machine learning prediction are in my repo too! **My core is to use power of technology design better life stick to consumer habits.**
+🎞️ My Story  
+-------------------------  
+**Industry Experience:** Partnered with Fortune 500 brands and PR agencies on brand innovation, integrated online/offline event strategy, external partnerships, advertising analytics, A/B testing, and user experience optimization.  
 
-📫 Get Connect With Me
-------------------------
-If you are developer, talen recruiter seeking for an excellent data analytics know consumer market deeply. 
-👍 *Go ahead and reach me through mchu@clarku.edu or manlin.chu1998@gmail.com. Let's make your network is your net worth.*
+**Academic Research:** Applied Python, R, and Tableau to analyze Twitter’s COVID-19 dissemination network, refining algorithms for health-related information sharing. Additional projects include machine learning–based prostate cancer prediction, available in my repositories.  
+
+**Current Research:** Conducting research on **multi-LLM generative agent simulations in AI Town**, modeling consumer decisions and social interactions under marketing strategies such as price discounts. This work connects **AI, behavioral simulation, and business analytics** to evaluate strategy effectiveness in controlled experiments.  
+
+📫 Get in Touch  
+-------------------------  
+Developers, researchers, and recruiters are welcome to connect:  
+**mchu@clarku.edu | manlin.chu1998@gmail.com**  
+
 
 <!---
 carolchu1208/carolchu1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
